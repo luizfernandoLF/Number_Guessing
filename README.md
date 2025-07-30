@@ -24,8 +24,6 @@ Game Rules
 
     After choosing the difficulty, you'll start guessing the number.
 
-    The game will tell you if your guess is too high or too low.
-
     If you guess the correct number within your allotted chances, you win!
 
     If you run out of chances before guessing correctly, you lose.
@@ -54,8 +52,6 @@ Bash
     Python 3
 
 Future Improvements 
-
-Here are some ideas for future enhancements:
 
     Allow the user to play multiple rounds of the game (i.e., keep playing until the user decides to quit). You can do this by asking the user if they want to play again after each round.
     Add a timer to see how long it takes the user to guess the number.
