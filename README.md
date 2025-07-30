@@ -47,8 +47,6 @@ Bash
 
     python number_guessing_game.py
 
-    (Assuming your Python file is named number_guessing_game.py)
-
     Follow the on-screen instructions to play!
 
  Technologies Used
